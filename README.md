@@ -10,19 +10,19 @@ Além de aprimorar minhas habilidades de programação, este repositório repres
 
 ## ✨ O que você encontrará
 
-* Projetos utilizando Arduino;
-* Controle de componentes eletrônicos;
-* Integração com sensores e atuadores;
-* Exemplos de automação;
-* Aplicações práticas para estudo e aprendizado.
+- Projetos utilizando Arduino;
+- Controle de componentes eletrônicos;
+- Integração com sensores e atuadores;
+- Exemplos de automação;
+- Aplicações práticas para estudo e aprendizado.
 
 > Novos projetos poderão ser adicionados conforme avanço nos estudos da plataforma Arduino.
 
 ## 🛠️ Tecnologias utilizadas
 
-* Arduino
-* Linguagem C/C++ (Arduino)
-* Arduino IDE
+- Arduino
+- Linguagem C/C++ (Arduino)
+- Arduino IDE
 
 > Dependendo do projeto, podem ser utilizadas bibliotecas específicas e diferentes módulos eletrônicos.
 
@@ -46,11 +46,17 @@ Abra o projeto desejado na **Arduino IDE**, conecte a placa Arduino e realize o 
 
 Este repositório tem como finalidade:
 
-* praticar programação para sistemas embarcados;
-* compreender o funcionamento da plataforma Arduino;
-* desenvolver projetos envolvendo hardware e software;
-* aprender a utilizar sensores, módulos e atuadores;
-* documentar minha evolução na área de eletrônica e automação.
+- praticar programação para sistemas embarcados;
+- compreender o funcionamento da plataforma Arduino;
+- desenvolver projetos envolvendo hardware e software;
+- aprender a utilizar sensores, módulos e atuadores;
+- documentar minha evolução na área de eletrônica e automação.
+
+## ⚠️ Observações
+
+O projeto **Missão Impossível** foi inicialmente desenvolvido e testado por meio de uma simulação no **Tinkercad**. Devido às limitações da plataforma, o circuito utiliza um **potenciômetro** para simular a variação do fluxo de ar, uma vez que o Tinkercad não disponibiliza uma **ventoinha** como componente eletrônico.
+
+Na implementação física do projeto, o potenciômetro será substituído por uma **ventoinha**, responsável por gerar o fluxo de ar utilizado na competição do assopro. Essa adaptação mantém a lógica de funcionamento do circuito, alterando apenas o componente responsável pela entrada de dados.
 
 ## 🌱 Evolução
 
